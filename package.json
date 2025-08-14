@@ -123,7 +123,7 @@
     "highlight.js": "^11.11.1",
     "js-tiktoken": "^1.0.10",
     "langchain": "^0.1.5",
-    "linkifyjs": "^4.2.0",
+    "linkifyjs": "^4.3.2",
     "lodash": "^4.17.21",
     "lowlight": "^3.3.0",
     "lucide-react": "^0.435.0",
