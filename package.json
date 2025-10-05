@@ -109,7 +109,7 @@
     "@tiptap/react": "^2.0.3",
     "@xenova/transformers": "^2.8.0",
     "adm-zip": "^0.5.15",
-    "ai": "^3.3.17",
+    "ai": "^5.0.0",
     "apache-arrow": "^14.0.2",
     "chokidar": "^3.5.3",
     "class-variance-authority": "^0.7.0",
