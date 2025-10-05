@@ -130,7 +130,7 @@
     "nanoid": "^5.1.2",
     "npm": "^10.3.0",
     "ollama": "^0.4.9",
-    "ollama-ai-provider": "^0.15.1",
+    "ollama-ai-provider": "^0.16.0",
     "openai": "^4.20.0",
     "posthog-js": "^1.130.2",
     "prosemirror-model": "^1.24.1",
